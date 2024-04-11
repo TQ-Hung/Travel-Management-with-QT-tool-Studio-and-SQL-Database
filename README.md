@@ -1,9 +1,9 @@
 # Travel-Management-with-QT-tool-Studio-and-SQL-Database
 # Description:
-In this project, I designed a tour management system using QT tool studio and utilized an SQLite database for data storage. The system includes the following main features:
+In this project, I designed a tour management system using QT tool studio and utilized an SQLite database for data storage, the system includes the following main features:
 1.Customer Management
 - The functionality allows users to store basic information such as name, age, customer ID, mobile number,...
-- Allows users to review customer information
+- Allows users to review customer information.
 2.Caps Management
 - Users can select the type of vehicle based on price and travel distance.
 3.Bookings Management
